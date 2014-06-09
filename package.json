@@ -1,0 +1,19 @@
+{
+  "name": "spinneret",
+  "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/8legd/spinneret.git"
+  },
+  "description": "spinneret",
+  "keywords": [
+    "spinneret"
+  ],
+  "author": {
+    "name": "8legd",
+    "email": "developer@8legd.com"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
